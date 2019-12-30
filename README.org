@@ -1,4 +1,4 @@
-* Toy Language Interpreter
+* Lambda Expression Language Interpreter
   This is language interpreter which interprets the lamdbda expressions and literals.
   I have done this as series of assignments for my academic elective EOPL(Essentials of Programming Languages)
 
